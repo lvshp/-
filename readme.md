@@ -8,6 +8,8 @@ state 表
 
 zone_id,country_id(国家id),name(地区名),code(地区缩写),status
 
+示例文件请把sql导入数据库,然后在index.php 和ajaxstate.php 中修改数据库信息
+运行 index.php即可
 
 
 表是从zencart整下来的，侵权删
